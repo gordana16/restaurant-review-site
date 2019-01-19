@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Restaurant Review Site
+# Restaurant Review Site
 
 ## Project7 OpenClassrooms Frontend Path
 
