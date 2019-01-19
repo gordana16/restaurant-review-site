@@ -1,0 +1,8 @@
+.carousel-indicators .active {
+  background-color: #007bff !important;
+}
+@media screen and (max-width: 1024px) {
+  .carousel-indicators {
+    display: none;
+  }
+}

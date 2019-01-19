@@ -1,0 +1,7 @@
+.active-triangle {
+  color: #eea41c;
+}
+.inactive-triangle {
+  color: #cbd3e3;
+  cursor: pointer;
+}
